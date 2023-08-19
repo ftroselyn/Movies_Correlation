@@ -1,1 +1,1 @@
-# Movies_Correlation
+# Exploring Correlations in Movie Data
