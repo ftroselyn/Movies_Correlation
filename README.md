@@ -1,4 +1,4 @@
-# Exploring Correlations in Movie DataExploring Correlations in Movie Dataset with Data Cleaning and Outlier Treatment
+# Exploring Correlations in Movie Dataset with Data Cleaning and Outlier Treatment
 
 ----
 
